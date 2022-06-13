@@ -1,4 +1,4 @@
-<p align="center"><img src="gercar.png" width="700"></p>
+<p align="center"><img src="gercar.png" width="500"></p>
 
 ## About GerCar
 
