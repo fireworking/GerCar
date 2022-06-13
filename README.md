@@ -1,4 +1,4 @@
-<img src="gercar.png" width="400">
+<p align="center"><img src="gercar.png" width="700"></p>
 
 ## About Laravel
 
