@@ -1,4 +1,4 @@
-[home](/gercar.png)
+![home](/gercar.png)
 
 ## About Laravel
 
